@@ -91,7 +91,7 @@ class ListaTransferencias extends StatelessWidget {
       ),
       body: Column(
         children: <Widget>[
-          ItemTransferencia(Transferencia(100.0, 1000)),
+          ItemTransferencia(Transferencia(150.0, 1000)),
           ItemTransferencia(Transferencia(300.0, 1000)),
           ItemTransferencia(Transferencia(450.0, 2000)),
         ],
