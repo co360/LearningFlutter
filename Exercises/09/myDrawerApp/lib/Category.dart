@@ -5,7 +5,7 @@ class Category extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('CAtegory Page'),
+        title: Text('Category Page'),
       ),
       body: Center(
         child: Text('A simple Category Page'),
